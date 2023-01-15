@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+Package: com.gregorydmitriev.newicons
+Version: 1.0
+Section: Themes
+Maintainer: Gregory Dmitriev
+Depends: firmware (<10.3.4)
+Architecture: iphoneos-arm
+Filename: ./debs/CustomIconsCydia.deb
+Size: 798620
+MD5sum: b20949a5a5d4454c1ede7b6a3a77db05
+Description: Brings new desktop icons to older iOS versions.
+Name: New Icons
+Author: Gregory Dmitriev
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
